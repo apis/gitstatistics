@@ -1,3 +1,12 @@
+# Copyright © 2010, Alexey Pisanko (apis72@gmail.com) All rights reserved.
+#
+# License: GPL 3/LGPL 3
+#
+# Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, 
+# either express or implied. See the License for the specific language governing rights and limitations 
+# under the License.
+# ------------------------------------------------------------------------------------------------------- 
+#
 # Record format for 'git log --numstat' output
 #
 # --- begin ---
